@@ -1,4 +1,4 @@
-# portifolio-web
+# portfolio-web
 Desenvolvimento de portfólio pessoal
 
 ## Minhas Tarefas 
